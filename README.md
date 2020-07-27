@@ -2,9 +2,7 @@
 <a href="https://github.com/TheDebianGuy">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>
-\n
-\n
-
+<br></br>
 
 
 
