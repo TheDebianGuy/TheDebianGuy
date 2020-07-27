@@ -14,7 +14,7 @@
 <br></br>
 <br></br>
 
-## Stats
+<p align="right">## Stats</p>
 <a href="https://github.com/TheDebianGuy">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=TheDebianGuy&show_icons=true&theme=cobalt"/>
 </a>
