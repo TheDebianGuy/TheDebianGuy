@@ -1,6 +1,6 @@
 ## Languages I code
 <a href="https://github.com/TheDebianGuy">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDebianGuy&layout=compact" />
 </a>
 <!---new lines go <br></br><br></br><br></br><br></br> hehe
 :::::::-.  .,::::::  :::::::.  :::  :::.   :::.    :::.
