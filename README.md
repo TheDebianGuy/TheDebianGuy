@@ -18,5 +18,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=TheDebianGuy&show_icons=true&theme=cobalt"/>
 </a>
 
-<img scr="https://profile-counter.glitch.me/TheDebianGuy/count.svg">
+<a href="https://github.com/TheDebianGuy">
+  <img align="left" src="https://profile-counter.glitch.me/TheDebianGuy/count.svg" />
+</a>
 
