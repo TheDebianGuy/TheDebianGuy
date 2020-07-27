@@ -22,8 +22,7 @@
   <img align="left" src="https://profile-counter.glitch.me/TheDebianGuy/count.svg" />
 </a>
 <br></br>
-<br></br>
-<br></br>
+
 ## Finally not a c# malware
 <a href="https://github.com/TheDebianGuy">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDebianGuy&repo=DivineProtector"/>
