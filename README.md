@@ -10,13 +10,10 @@
   888_,o8P' 888oo,__ _88o,,od8P888 888   888,888    Y88
   MMMMP"`   """"YUMMM""YUMMMP" MMM YMM   ""` MMM     YM--->
 
-## Finally not a c# malware
+## Visits
 <a href="https://github.com/TheDebianGuy">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDebianGuy&repo=DivineProtector"/>
+  <img align="left" src="https://profile-counter.glitch.me/TheDebianGuy/count.svg" />
 </a>
-<br></br>
-<br></br>
-<br></br>
 
 ## <p align="right">Stats</p>
 <a href="https://github.com/TheDebianGuy">
@@ -24,8 +21,10 @@
 </a>
 <br></br>
 
-## Visits
+## Finally not a c# malware
 <a href="https://github.com/TheDebianGuy">
-  <img align="left" src="https://profile-counter.glitch.me/TheDebianGuy/count.svg" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDebianGuy&repo=DivineProtector"/>
 </a>
-
+<br></br>
+<br></br>
+<br></br>
