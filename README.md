@@ -12,10 +12,7 @@
 <br></br>
 <br></br>
 <br></br>
-<br></br>
-<br></br>
-<br></br>
-## <p align="right">Stats</p>
+## <p align="right"><strong> Stats </strong></p>
 <a href="https://github.com/TheDebianGuy">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=TheDebianGuy&show_icons=true&theme=cobalt"/>
 </a>
