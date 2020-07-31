@@ -21,8 +21,3 @@
 <a href="https://github.com/TheDebianGuy">
   <img align="left" src="https://profile-counter.glitch.me/TheDebianGuy/count.svg" />
 </a>
-
-## Contact
-<script>
-btoa("test");
-</script>
