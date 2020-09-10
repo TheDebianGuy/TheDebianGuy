@@ -1,9 +1,9 @@
 # Stats
-## <p style='purple'>Last released project:</p>
-### <a href='https://github.com/TheDebianGuy/Flex'>Flex!</a> - computer management tool
+### Last released project:
+##### <a href='https://github.com/TheDebianGuy/Flex'>Flex!</a> - computer management tool
 
-## <p style='pink'>Next project:</p>
-### Antivirus for windows and lite version for linux
+### Next project:
+##### Antivirus for windows and lite version for linux
 
 <a href="https://github.com/TheDebianGuy">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDebianGuy&layout=compact" />
