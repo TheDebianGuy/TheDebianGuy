@@ -1,8 +1,8 @@
 # Stats
 ## Last released project:
-### Flex! - computer management tool
+### <a href='https://github.com/TheDebianGuy/Flex'>Flex!</a> - computer management tool
 ## Next project:
-### Antivirus for windows devices and lite version for linux ones
+### Antivirus for windows and lite version for linux
 
 ## Languages I code
 <a href="https://github.com/TheDebianGuy">
