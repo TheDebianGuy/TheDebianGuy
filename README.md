@@ -1,8 +1,9 @@
 # Stats
-# Last released project:
-## Flex! - computer information script made for windows devices
+## Last released project:
+### Flex! - computer information script made for windows devices
 ## Next project:
 ### Antivirus for windows devices and lite version for 
+
 ## Languages I code
 <a href="https://github.com/TheDebianGuy">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDebianGuy&layout=compact" />
@@ -21,7 +22,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=TheDebianGuy&show_icons=true&theme=cobalt"/>
 </a>
 <br></br>
-
+<br></br>
 ## Visits
 <a href="https://github.com/TheDebianGuy">
   <img align="left" src="https://profile-counter.glitch.me/TheDebianGuy/count.svg" />
