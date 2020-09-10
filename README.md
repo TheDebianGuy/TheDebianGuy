@@ -1,3 +1,8 @@
+# Stats
+# Last released project:
+## Flex! ### - computer information script made for windows devices
+## Next project:
+### Antivirus for windows devices and lite version for 
 ## Languages I code
 <a href="https://github.com/TheDebianGuy">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDebianGuy&layout=compact" />
