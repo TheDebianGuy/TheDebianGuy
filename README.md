@@ -1,8 +1,8 @@
 # Stats
 ## Last released project:
-### Flex! - computer information script made for windows devices
+### Flex! - computer management tool
 ## Next project:
-### Antivirus for windows devices and lite version for 
+### Antivirus for windows devices and lite version for linux ones
 
 ## Languages I code
 <a href="https://github.com/TheDebianGuy">
