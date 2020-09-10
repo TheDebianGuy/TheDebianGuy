@@ -21,8 +21,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=TheDebianGuy&show_icons=true&theme=cobalt"/>
 </a>
 <br></br>
+<br></br>
+<br></br>
 
-<p align="left">Stats</p>
+<p align="left">Visits</p>
 <a href="https://github.com/TheDebianGuy">
   <img align="left" src="https://profile-counter.glitch.me/TheDebianGuy/count.svg" />
 </a>
