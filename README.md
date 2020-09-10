@@ -17,13 +17,12 @@
   MMMMP"`   """"YUMMM""YUMMMP" MMM YMM   ""` MMM     YM--->
 <br></br>
 
-## <p align="right">Stats</p>
 <a href="https://github.com/TheDebianGuy">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=TheDebianGuy&show_icons=true&theme=cobalt"/>
 </a>
 <br></br>
-<br></br>
-## Visits
+
+<p align="left">Stats</p>
 <a href="https://github.com/TheDebianGuy">
   <img align="left" src="https://profile-counter.glitch.me/TheDebianGuy/count.svg" />
 </a>
