@@ -1,6 +1,6 @@
 # Stats
 # Last released project:
-## Flex! ### - computer information script made for windows devices
+## Flex! - computer information script made for windows devices
 ## Next project:
 ### Antivirus for windows devices and lite version for 
 ## Languages I code
