@@ -1,10 +1,10 @@
 # Stats
 ## <p style='purple'>Last released project:</p>
 ### <a href='https://github.com/TheDebianGuy/Flex'>Flex!</a> - computer management tool
-<br></br>
+
 ## <p style='pink'>Next project:</p>
 ### Antivirus for windows and lite version for linux
-<br></br>
+
 <a href="https://github.com/TheDebianGuy">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDebianGuy&layout=compact" />
 </a>
@@ -19,4 +19,3 @@
 <a href="https://github.com/TheDebianGuy">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=TheDebianGuy&show_icons=true&theme=cobalt"/>
 </a>
-<br></br>
