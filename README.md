@@ -3,7 +3,7 @@
 ##### <a href='https://github.com/TheDebianGuy/Flex'>Flex!</a> - computer management tool
 
 ### Next project:
-##### Antivirus for windows and lite version for linux
+##### IP lookup api
 
 <a href="https://github.com/TheDebianGuy">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDebianGuy&layout=compact" />
