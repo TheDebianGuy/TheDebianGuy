@@ -2,11 +2,7 @@
 ### Debian enthusiast, gonna be (reverse)engineer.
 
 # Stats
-### Last released project:
-##### <a href='https://github.com/TheDebianGuy/Flex'>Flex!</a> - computer management tool
-
-### Next project:
-##### Who knows
+### Current progress: ## learning low level (c(++) and (f)asm)
 
 <a href="https://github.com/TheDebianGuy">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDebianGuy&layout=compact" />
