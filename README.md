@@ -5,8 +5,8 @@
 ### Current progress: learning low level [ c(++) + (f)asm ]
 
 <a href="https://github.com/TheDebianGuy">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDebianGuy&layout=compact" />
-</a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDebianGuy&layout=compact" /></a>
+<br />
 <!---new lines go <br></br><br></br><br></br><br></br> hehe
 :::::::-.  .,::::::  :::::::.  :::  :::.   :::.    :::.
  ;;,   `';,;;;;''''   ;;;'';;' ;;;  ;;`;;  `;;;;,  `;;;
@@ -15,8 +15,5 @@
   888_,o8P' 888oo,__ _88o,,od8P888 888   888,888    Y88
   MMMMP"`   """"YUMMM""YUMMMP" MMM YMM   ""` MMM     YM--->
 <br />
-<br />
-<br />
 <a href="https://github.com/TheDebianGuy">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=TheDebianGuy&show_icons=true&theme=cobalt"/>
-</a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=TheDebianGuy&show_icons=true&theme=cobalt"/></a>
