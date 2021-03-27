@@ -1,6 +1,6 @@
-[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com) 
-[![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coders-sweat.svg)](https://forthebadge.com)
+<img src='https://forthebadge.com/images/badges/works-on-my-machine.svg' width='30px' height='5px'>
+<img src='https://forthebadge.com/images/badges/uses-brains.svg' width='30px' height='5px'>
+<img src=https://forthebadge.com/images/badges/powered-by-coders-sweat.svg' width='30px' height='5px'>
 # TheDebianGuy
 ### Debian enthusiast, gonna be (reverse)engineer.
 
