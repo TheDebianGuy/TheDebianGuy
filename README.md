@@ -1,6 +1,7 @@
-<img src='https://forthebadge.com/images/badges/works-on-my-machine.svg' width='150px' height='60px'>
-<img src='https://forthebadge.com/images/badges/uses-brains.svg' width='150px' height='25px'>
-<img src='https://forthebadge.com/images/badges/powered-by-coders-sweat.svg' width='150px' height='60px'>
+<img src='https://forthebadge.com/images/badges/works-on-my-machine.svg' width='200px' height='100px'></img>
+<img src='https://forthebadge.com/images/badges/uses-brains.svg' width='200px' height='60px'></img>
+<img src='https://forthebadge.com/images/badges/powered-by-coders-sweat.svg' width='200px' height='100px'></img>
+<br />
 # TheDebianGuy
 ### Debian enthusiast, gonna be (reverse)engineer.
 
