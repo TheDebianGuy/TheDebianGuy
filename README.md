@@ -5,7 +5,7 @@
 ### Current progress: learning low level c(++) and (f)asm
 
 <a href="https://github.com/TheDebianGuy">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDebianGuy&layout=compact" /></a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDebianGuy&layout=compact" /></a>
 <br />
 <!---new lines go <br></br><br></br><br></br><br></br> hehe
 :::::::-.  .,::::::  :::::::.  :::  :::.   :::.    :::.
