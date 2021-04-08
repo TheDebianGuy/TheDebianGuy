@@ -1,7 +1,7 @@
 <!--<img src='https://forthebadge.com/images/badges/works-on-my-machine.svg' width='200px' height='100px'></img>
 <img src='https://forthebadge.com/images/badges/uses-brains.svg' width='200px' height='35px'></img>
 <img src='https://forthebadge.com/images/badges/powered-by-coders-sweat.svg' width='200px' height='100px'></img>-->
-<img src='https://img.shields.io/keybase/pgp/thedebianguy?label=thedebianguy%20PGP&style=for-the-badge' width='200px' height='35px'></img>
+<img src='https://img.shields.io/keybase/pgp/thedebianguy?label=thedebianguy%20PGP&style=for-the-badge' width='300px' height='30px'></img>
 # TheDebianGuy
 ### Debian enthusiast, gonna be (reverse)engineer.
 
