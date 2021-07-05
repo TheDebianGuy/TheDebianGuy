@@ -9,8 +9,7 @@
 ### Current progress: learning low level c(++) and (f)asm
 
 # Contact
-Write me an email: thedebianguy(at)debianisbetterthanarch.cf
-
+Write me an email: thedebianguy(at)riseup.net
 <a href="https://github.com/TheDebianGuy">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDebianGuy&layout=compact" /></a>
 <br />
